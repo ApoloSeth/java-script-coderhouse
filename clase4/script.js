@@ -51,7 +51,7 @@ const radio = Number(prompt("Ingrese el radio del cilindro: "))
 volumenCilindro(altura, radio)*/
 
 //6
-const cantidadElementos = Number(prompt("Ingrese la cantidad de elementos de la lista: "))
+/*const cantidadElementos = Number(prompt("Ingrese la cantidad de elementos de la lista: "))
 const listaElementos = []
 
 for (let i = 0; i < cantidadElementos; i++){
@@ -68,4 +68,7 @@ function media (lista){
     alert(`La media de los datos ingresados es ${mediaListaElementos}`)
 }
 
-media(listaElementos)
+media(listaElementos)*/
+
+//7
+
