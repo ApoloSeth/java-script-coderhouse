@@ -65,4 +65,24 @@ for (let i = 1; i <= copiaAbecedario.length; i++){
 alert(abecedario.join(", "))*/
 
 //8
+/*const letras = []
+for (let i = 0; i < 10; i++){
+    const letra = prompt("Ingresa la letra " + (i+1) + " : ")
+    letras.push(letra)
+}
 
+const repeticiones = {}
+
+for (const letra of letras){
+    if(letra in repeticiones){
+        repeticiones[letra] += 1
+    } else {
+        repeticiones[letra] = 1
+    }
+}
+
+for (const letra in repeticiones){
+    alert(`La letra ${letra} se repite ${repeticiones[letra]} veces`)
+}*/
+
+//9
